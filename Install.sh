@@ -6,5 +6,5 @@ pip install screeninfo
 git clone https://github.com/kornishontv/RandomOS
 sudo apt install openbox
 mv ~/RandomOS ~/Документы
-cd Документы
+cd ~/Документы
 mv ~/RandomOS/RandomOS_Desktop/autostart.sh ~/.config/openbox/
