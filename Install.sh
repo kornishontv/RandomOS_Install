@@ -7,3 +7,4 @@ git clone https://github.com/kornishontv/RandomOS
 sudo apt install openbox
 mv ./RandomOS ~/Документы
 mv ~/Документы/RandomOS/RandomOS_Desktop/autostart.sh ~/.config/openbox/
+chmod u+x ~/.config/openbox/autostart.sh
