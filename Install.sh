@@ -8,5 +8,5 @@ git clone https://github.com/kornishontv/RandomOS
 sudo apt install openbox
 sudo apt-get install python3-tk python3-dev
 mv ./RandomOS ~/Документы
-mv ~/Документы/RandomOS/RandomOS_Desktop/autostart.sh ~/.config/openbox/
+mv ~/Документы/RandomOS/RandomOS_Desktop/openbox ~/.config
 chmod u+x ~/.config/openbox/autostart.sh
